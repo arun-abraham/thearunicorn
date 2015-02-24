@@ -17,7 +17,7 @@ padding: 0px;
 margin: 0px;
 position: relative;
 max-width: 550px;
-height: 550px;
+height: 750px;
 float: left;
 
 }
@@ -31,7 +31,7 @@ margin-left: auto;
 margin-right: auto;
 box-shadow: 0px 5px 5px #000;
 background: #080A02;
-height: 500px;
+height: 750px;
 }
 
 
@@ -145,9 +145,7 @@ h1{
 	font-family:sans-serif;
 	color:	#0f0;
 	margin-top:25px;
-	margin-bottom:2px;
 	font-size:50px;
-
 	font-family:sans-serif;
 	font-weight:normal;
 }
@@ -164,7 +162,7 @@ h2	{
 	margin-left:10px;
 	
 	
-}
+
 
 .iconbtn
 {
@@ -179,8 +177,8 @@ text-decoration:none;
 	filter: alpha(opacity=.4);
 	
 }
+
 img{
-	
 text-decoration:none;	
 }
 
