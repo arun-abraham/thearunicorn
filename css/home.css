@@ -1,0 +1,196 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper{
+position:relative;
+ margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+
+#content {
+top: 50px;
+padding: 0px;
+margin: 0px;
+position: relative;
+max-width: 550px;
+height: 550px;
+float: left;
+
+}
+
+#biocontent {
+padding: 20px;
+float: left;
+top: 100px;
+min-width: 600px;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0px 5px 5px #000;
+background: #080A02;
+height: 500px;
+}
+
+
+
+#center{
+	margin-left:50px;
+		
+}
+
+.bigButton img{
+	left:100px;
+	vertical-align:bottom;
+	margin-right:-5px;
+	
+	}
+	
+	
+.bigButton{
+	margin:0;
+	text-decoration:none;
+	position:relative;
+
+	}
+
+.bigButton:hover img	{
+	opacity: .4;
+	filter: alpha(opacity=.4);
+	text-decoration:none;
+
+}
+
+body {
+	background:#15190D;
+	/*background-image:url(../pictures/inflicted.png);*/
+	/*background:#193119;*/
+	background-attachment: fixed;
+	overflow-y: scroll;	
+	margin: 0px;
+	
+}
+
+#email{
+	color:#069;
+	margin-left:auto;
+	margin-right:auto;	
+	
+	padding-bottom:20px;
+}
+
+p	{
+		padding-left:25px;
+
+	
+	margin:10px;
+	color:#FFF;
+	font-family:sans-serif;
+	margin-bottom:10px;
+	margin-top:10px;
+	color:#CCC;
+	
+	max-width:750px;
+	line-height: 1.4;
+	font-size:18px;
+	width:550px;
+	text-align:left;
+	
+}
+
+
+#fixedHeader	{
+	
+	
+	
+	height: 100px;
+	position: fixed;
+	z-index: 1;
+	text-align:center;
+	Color:white;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.4;
+}
+
+#headCenter{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	max width:600px;
+	text-align:center;
+}
+
+
+
+a:link {
+color:#FFF;
+text-decoration:none;
+}
+
+a:visited {
+color:#FFF;
+
+}
+a:hover{
+color:grey;
+}
+
+a:active {
+color:#FFF;
+}
+
+h1{
+	font-family:sans-serif;
+	color:	#0f0;
+	margin-top:25px;
+	margin-bottom:2px;
+	font-size:50px;
+
+	font-family:sans-serif;
+	font-weight:normal;
+}
+
+
+h2	{
+	font-family:sans-serif;
+	font-weight:normal;
+	color:#0f0;
+	font-size:17px;
+	padding-left:25px;
+	text-align:left;
+	margin-bottom:10px;
+	margin-left:10px;
+	
+	
+}
+
+.iconbtn
+{
+margin:40px;
+cursor:pointer;	
+text-decoration:none;
+
+}
+
+.iconbtn:hover img	{
+	opacity: .4;
+	filter: alpha(opacity=.4);
+	
+}
+img{
+	
+text-decoration:none;	
+}
+
+.center{
+	margin-right:auto;
+	margin-left:auto;	
+}
+
+.middle{
+	margin-left:auto;
+	margin-right:auto;	
+	
+}
